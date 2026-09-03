@@ -236,7 +236,7 @@ The scan showed that this was clearly an intentionally vulnerable and outdated m
 
 ---
 
-## 💥 Step 5: Exploitation with Metasploit
+## Step 5: Exploitation with Metasploit
 
 After identifying Samba as the main vulnerability I wanted to test, I opened Metasploit:
 

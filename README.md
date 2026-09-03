@@ -78,8 +78,8 @@ Kioptrix-Level1-Assessment/
 ## How to Navigate
 
 * **Start here** – this `README.md` gives a quick overview of what I did in the lab.
-* **For the full technical story**, read: [`03-reporting/technical-report.md`](03-reporting/technical-report.md)
-* **For a quick management summary**, see: [`03-reporting/executive-summary.md`](03-reporting/executive-summary.md)
+* **For the full technical story**, read: [Technical Report](03-reporting/technical-report.md)
+* **For a quick management summary**, see: [Executive Summary](03-reporting/executive-summary.md)
 * **For evidence**, browse the `03-reporting/evidence/` folder.
 * **To reproduce the findings**, follow the steps in `02-security-assessment/exploitation/` – but **only in a lab environment!**
 

@@ -1,0 +1,13 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-09-03 03:10 -0400
+Nmap scan report for 192.168.100.1
+Host is up (0.00068s latency).
+MAC Address: 52:54:00:12:35:00 (QEMU virtual NIC)
+Nmap scan report for 192.168.100.2
+Host is up (0.00029s latency).
+MAC Address: 08:00:27:FB:33:6C (Oracle VirtualBox virtual NIC)
+Nmap scan report for 192.168.100.7
+Host is up (0.00070s latency).
+MAC Address: 08:00:27:1F:F6:3A (Oracle VirtualBox virtual NIC)
+Nmap scan report for 192.168.100.3
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.02 seconds

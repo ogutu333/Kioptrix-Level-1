@@ -1,0 +1,120 @@
+[H[2J[3J Currently scanning: Starting.   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 0 Captured ARP Req/Rep packets, from 0 hosts.   Total size: 0                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ Currently scanning: Starting.   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 0 Captured ARP Req/Rep packets, from 0 hosts.   Total size: 0                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ Currently scanning: 192.168.100.0/24   |   Screen View: Unique Hosts                                                                                     
+                                                                                                                                                          
+ 0 Captured ARP Req/Rep packets, from 0 hosts.   Total size: 0                                                                                            
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ Currently scanning: 192.168.100.0/24   |   Screen View: Unique Hosts                                                                                     
+                                                                                                                                                          
+ 2 Captured ARP Req/Rep packets, from 2 hosts.   Total size: 120                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ Currently scanning: 192.168.100.0/24   |   Screen View: Unique Hosts                                                                                     
+                                                                                                                                                          
+ 2 Captured ARP Req/Rep packets, from 2 hosts.   Total size: 120                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 2 Captured ARP Req/Rep packets, from 2 hosts.   Total size: 120                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 2 Captured ARP Req/Rep packets, from 2 hosts.   Total size: 120                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 2 Captured ARP Req/Rep packets, from 2 hosts.   Total size: 120                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 2 Captured ARP Req/Rep packets, from 2 hosts.   Total size: 120                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 184                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.1   52:54:00:12:35:00      1      64  Unknown vendor                                                                                         
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 184                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.1   52:54:00:12:35:00      1      64  Unknown vendor                                                                                         
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 184                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.1   52:54:00:12:35:00      1      64  Unknown vendor                                                                                         
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 184                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.1   52:54:00:12:35:00      1      64  Unknown vendor                                                                                         
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 184                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.1   52:54:00:12:35:00      1      64  Unknown vendor                                                                                         
+ Currently scanning: Finished!   |   Screen View: Unique Hosts                                                                                            
+                                                                                                                                                          
+ 3 Captured ARP Req/Rep packets, from 3 hosts.   Total size: 184                                                                                          
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.100.2   08:00:27:fb:33:6c      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.7   08:00:27:1f:f6:3a      1      60  PCS Systemtechnik GmbH                                                                                 
+ 192.168.100.1   52:54:00:12:35:00      1      64  Unknown vendor                                                                                         

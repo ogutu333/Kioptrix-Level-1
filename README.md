@@ -3,7 +3,6 @@
 [![Pentest](https://img.shields.io/badge/Penetration%20Test-Kioptrix%20Level%201-blue)](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/)
 [![Date](https://img.shields.io/badge/Date-August%202026-lightgrey)](https://github.com/)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
 ---
 

@@ -528,24 +528,6 @@ Good Luck and have fun!
 
 **Analysis:** The welcome message confirmed that the main objective of the lab was to obtain root access and also warned that the system was intentionally vulnerable.
 
-### 6.9 Services and Network
-
-Finally, I checked which network services were listening on the machine.
-
-```bash
-netstat -tuln
-```
-
-| Protocol | Local Address | Foreign Address | State  | Service |
-| -------- | ------------- | --------------- | ------ | ------- |
-| tcp      | 0.0.0.0:22    | 0.0.0.0:*       | LISTEN | SSH     |
-| tcp      | 0.0.0.0:80    | 0.0.0.0:*       | LISTEN | HTTP    |
-| tcp      | 0.0.0.0:111   | 0.0.0.0:*       | LISTEN | RPC     |
-| tcp      | 0.0.0.0:139   | 0.0.0.0:*       | LISTEN | SMB     |
-| tcp      | 0.0.0.0:443   | 0.0.0.0:*       | LISTEN | HTTPS   |
-
----
-
 ## 7. Risk Analysis
 
 ### 7.1 Risk Assessment Matrix
@@ -762,10 +744,10 @@ The penetration test against Kioptrix Level 1 successfully showed how vulnerable
 
 **Key Findings:**
 
-1. ✅ **System Compromised:** Root access achieved
-2. ✅ **Flag Captured:** Proof of compromise obtained
-3. ✅ **Vulnerability Identified:** Samba trans2open (CVE-2003-0201)
-4. ✅ **Multiple Attack Vectors:** SMB, mod_ssl, SSHv1
+1. **System Compromised:** Root access achieved
+2. **Flag Captured:** Proof of compromise obtained
+3. **Vulnerability Identified:** Samba trans2open (CVE-2003-0201)
+4. **Multiple Attack Vectors:** SMB, mod_ssl, SSHv1
 
 ### 9.2 Impact Summary
 

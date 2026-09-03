@@ -66,9 +66,7 @@ Kioptrix-Level1-Assessment/
 ├── 03-reporting/                       # Final deliverable
 │   ├── executive-summary.md            # High-level overview for management
 │   ├── technical-report.md             # Full technical details (this is the main report)
-│   ├── evidence/                       # All screenshots and logs
-│   └── findings/                       # Structured vulnerability findings
-├── 04-tools/                           # (Optional) scripts or custom tools used
+├── 04-tools/                           # Scripts or custom tools used
 │   └── notes/                          # Raw notes taken during the engagement
 ├── README.md                           # This file
 ```

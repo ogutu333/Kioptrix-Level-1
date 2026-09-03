@@ -20,4 +20,3 @@
 | `vulnerability-severity-matrix.md` | CVSS scores and priority levels |
 | `risk-analysis.md` | Detailed breakdown of impact, likelihood, and risk |
 | `remediation-recommendations.md` | Prioritized action plan with timelines |
-| `attack-tree.md` | Visual representation of potential attack paths |

